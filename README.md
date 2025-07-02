@@ -12,4 +12,7 @@
 1. Download the Tableau workbook (.twbx) file.
 2. Open it in Tableau Desktop or Tableau Public.
 3. Explore the interactive visualizations and insights.
+
+<img width="1229" alt="British_Airways_Review" src="https://github.com/user-attachments/assets/142b08c2-b8df-4b35-80b8-85991dda3368" />
+
   
